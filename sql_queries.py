@@ -2,6 +2,7 @@ import configparser
 
 
 # CONFIG
+
 config = configparser.ConfigParser()
 config.read('dwh.cfg')
 
